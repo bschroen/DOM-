@@ -1,0 +1,8 @@
+div.close {
+    display: none;
+}
+
+div.open {
+    display: block;
+    padding-left: 55px;
+}
